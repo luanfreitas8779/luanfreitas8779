@@ -22,7 +22,7 @@ Sou o Luan :sunglasses:, sou programador Front-End, atualmente estou aprendendo 
 
 <br>
 
-<a href="https://www.linkedin.com/in/luan-barros-freitas-a18b11225/">
+<a href="https://www.linkedin.com/in/luan-barros-freitas-136034264/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo">
 <a/>
 
